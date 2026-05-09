@@ -26,6 +26,7 @@ Here's some of the things I can do:
 ![Ruby](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ruby/ruby3.svg)
 ![Sass](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg)
 ![tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg)
+![GoLang](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg)
 
 
 #### Platforms & Apps
@@ -44,6 +45,8 @@ Here's some of the things I can do:
 ![illustrator](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg)
 ![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
 ![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
+![Cloudflare](https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg)
+
 
 <h3 align="center"> Contact me! </h3>
 <p align="center">
