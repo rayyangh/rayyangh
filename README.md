@@ -44,6 +44,7 @@ Here's some of the things I can do:
 ![illustrator](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg)
 ![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
 ![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
+![Audacity](https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity2.svg)
 
 <h3 align="center"> Contact me! </h3>
 <p align="center">
